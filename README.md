@@ -1,1 +1,1 @@
-# **mulesoft-jobs**
+# mulesoft-jobs
